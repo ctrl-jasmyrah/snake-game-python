@@ -18,7 +18,3 @@ class Food(Turtle):
         self.goto(x, y)
 
 
-# food=Food()
-#
-# screen=Screen()
-# screen.exitonclick()
