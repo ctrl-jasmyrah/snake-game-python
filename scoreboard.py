@@ -39,22 +39,3 @@ class Scoreboard(Turtle):
 
 
 
-    # def game_over(self):
-    #     self.penup()
-    #     self.goto(0,0)
-    #     self.pencolor("yellow")
-    #     self.hideturtle()
-    #     self.write("GAME OVER", align="center", font=("Courier", 25, "bold") )
-
-
-
-
-# print(score)
-# screen=Screen()
-# screen.exitonclick()
-
-
-
-# tim.penup()
-#         tim.color("aquamarine")
-#         tim.goto(0,280)
